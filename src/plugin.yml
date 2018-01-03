@@ -1,0 +1,6 @@
+name: KiemYasuo
+version: 1.0
+main: kdvn.Main
+commands:
+    yasuo:
+        description: Yasuo gank tem 15p gg

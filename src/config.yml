@@ -1,0 +1,8 @@
+#Damage lore phải có dấu cách ở cuối
+Lore: '&3Thanh kiếm của YASUO'
+DamageLore: '&aSát thương lốc xoáy: '
+LuotDelay: 5
+LuotLore: '&aSát thương khi lướt: '
+ChemLan1: '&aLần 1'
+ChemLan2: '&aLần 2'
+ChemLan3: '&aLốc xoáy'
