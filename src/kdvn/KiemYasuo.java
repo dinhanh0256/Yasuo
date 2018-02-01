@@ -75,7 +75,7 @@
 /*  69 */           Location lo = (Location)localIterator1.next();
 /*  70 */           lo.add(lo.getDirection().getX(), 0.0D, lo.getDirection().getZ());
 /*  71 */           float offset = loList.indexOf(lo) * 0.2F;
-/*  72 */           Particle.sendParticle(net.minecraft.server.v1_10_R1.EnumParticle.SWEEP_ATTACK, lo, offset, offset, offset, 0.05F, 5);
+/*  72 */           Particle.sendParticle(net.minecraft.server.v1_11_R1.EnumParticle.SWEEP_ATTACK, lo, offset, offset, offset, 0.05F, 5);
 /*  73 */           localIterator2 = KiemYasuo.getEntityByLocation(lo, 2.0D).iterator(); continue;LivingEntity e = (LivingEntity)localIterator2.next();
 /*  74 */           if (!e.equals(KiemYasuo.this))
 /*     */           {
